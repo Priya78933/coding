@@ -1,0 +1,19 @@
+n=int(input("enter a number"))
+if (n%2==0):
+    print("even number:")
+else:
+    print("odd number:")
+
+
+
+
+-----------------------------------
+a=20
+b=30
+c=40
+if(a>b & a>c):
+     print("a is greater":)
+elif(b>c):
+     print("b is greater:")
+else:
+     print("c is greater:")
