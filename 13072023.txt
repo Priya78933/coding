@@ -1,0 +1,11 @@
+n=input("enter the number:")
+print(n[::-1])
+
+
+-----------------------------------------------------------
+n=input("enter the number:")
+if(n[::]==n[::-1]):
+    print("palindrom")
+else:
+    print("non pallindrom")
+----------------------------------------------------------------
